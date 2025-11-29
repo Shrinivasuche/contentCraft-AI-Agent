@@ -63,6 +63,7 @@ This agent uses Google Gemini models to produce:
 ### **1. Clone the repository**
 
 git clone https://github.com/Shrinivasuche/contentCraft-AI-Agent.git
+
 cd contentcraft-ai-agent
 
 ### **2. Create & activate virtual environment**
