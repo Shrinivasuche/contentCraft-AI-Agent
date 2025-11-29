@@ -2,6 +2,11 @@
 
 An AI-powered agent that generates platform-specific social media captions, carousel ideas, reel ideas, and content plans using the Google Gemini API.
 
+## 🔗 Live Demo
+Try the live app here:  
+👉 https://contentcraft-ai-agent-dmkpvbgvefjyg5vrtv8bcd.streamlit.app
+
+
 ## 🚀 Project Overview
 
 ContentCraft is a Streamlit-based AI agent that helps brands and creators instantly generate high-quality, platform-optimized social media content.
